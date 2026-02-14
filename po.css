@@ -1,0 +1,19 @@
+header {
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(
+    90deg,
+    rgba(133, 100, 16, 1) 0%,
+    rgba(184, 11, 106, 1) 50%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+body {
+  margin: 0;
+  padding:;
+}
+
+.str {
+  border: 4px solid black;
+}
